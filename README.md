@@ -1,1 +1,2 @@
-THis is my first practice on GIT
+THis is my first practice on GIT. Going to be an amazing run. I am here for it
+
